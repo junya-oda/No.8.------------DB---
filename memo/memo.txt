@@ -1,0 +1,16 @@
+基本構造
+①index.php
+②insert.php
+③select.php
+
+ユーザー管理機能構造
+①index.php
+②login.php
+③login_act.php
+④select.php
+⑤-1 detail.php , update.php , select.php
+⑤-2 delete.php , select.php
+
+認証不要
+①select2.php
+②detail2.php
